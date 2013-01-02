@@ -1,0 +1,10 @@
+permalink: /:title.html
+description: "Winged Monkey"
+keywords: "Ruby, Cloud computing, Rails, RoR"
+title: Winged Monkey
+tagline: Winged Monkey
+author: Winged Monkey
+host: www.wingedmonkey.org
+production_url: http://www.winkedmonkey.org
+exclude: README.md, image_source
+markdown: kramdown
