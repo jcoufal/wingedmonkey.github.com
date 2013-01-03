@@ -10,8 +10,7 @@ Contact Us
 ==========
 
 <div class="section-grouping">
-
-### Internet Relay Chat (IRC)
+## Internet Relay Chat (IRC)
 
 Come [join us](irc://irc.freenode.net/winged-monkey) on irc.freenode.net in channel #winged-monkey!
 </div>
