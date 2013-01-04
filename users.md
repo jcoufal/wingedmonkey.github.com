@@ -1,7 +1,6 @@
 ---
 title: Users
 layout: page
-title: "Users"
 summary: "Users"
 ---
 {::options parse_block_html="true" /}
@@ -17,11 +16,13 @@ To understand why Winged Monkey might be useful for you, take a look at our:
   * [Use Cases](https://github.com/wingedmonkey/documents/wiki/Winged-Monkey-Examples-of-Usage)
   * [User Stories](https://github.com/wingedmonkey/documents/wiki/Winged-Monkey-User-Stories)
 
-## Get the Code and Install It
+## Installation Instructions
 
-Take a look at our <a href="https://github.com/wingedmonkey/wingedmonkey">our GitHub repository</a> to view the source code and learn how to run Winged Monkey.  Additional documentation is coming soon!
+To install Winged Monkey, follow the instructions to  <a href="https://github.com/wingedmonkey/documents/wiki/Source-Install">install the code from source</a>.  Winged Monkey packages will be available soon!
 
-## Supported Providers
+Once installation is complete, follow the instructions below to configure Winged Monkey for a particular provider.
+
+## Provider Configuration and Information
 
 Currently supported providers include:
 
