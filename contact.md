@@ -16,6 +16,10 @@ Come [join us](irc://irc.freenode.net/winged-monkey) on IRC!
 
 * **Network:** Freenode (irc.freenode.net)
 * **Channel:**  #winged-monkey
+
+## Contribute
+
+Interested in working with us?  Fork our Github repository at [https://github.com/wingedmonkey/wingedmonkey](https://github.com/wingedmonkey/wingedmonkey) and talk to us on IRC!
 </div>
 
 
