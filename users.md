@@ -16,6 +16,8 @@ To understand why Winged Monkey might be useful for you, take a look at our:
   * [Use Cases](https://github.com/wingedmonkey/documents/wiki/Winged-Monkey-Examples-of-Usage)
   * [User Stories](https://github.com/wingedmonkey/documents/wiki/Winged-Monkey-User-Stories)
 
+Or visit [our demo site](http://demo.wingedmonkey.org) and try it out for yourself!
+
 ## Installation Instructions
 
 To install Winged Monkey, follow the instructions to  <a href="https://github.com/wingedmonkey/documents/wiki/Source-Install">install the code from source</a>.  Winged Monkey packages will be available soon!
